@@ -1,0 +1,33 @@
+/* Header.css */
+.head {
+    background-color: #f0f8ff; /* Light background color */
+    padding: 40px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    font-size: 36px;
+    font-weight: bold;
+    color: #005f73; /* Dark teal color */
+    margin-bottom: 20px;
+}
+
+.head p {
+    font-size: 18px;
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.head a {
+    font-size: 18px;
+    color: #0077b6; /* Blue color */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.head a:hover {
+    text-decoration: underline;
+}
